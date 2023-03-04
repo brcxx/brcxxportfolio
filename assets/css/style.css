@@ -1144,12 +1144,13 @@ select {
 }
 @media screen and (max-width: 768px) {
   #gotop a {
-    font-size: 14px;
+    font-size: 13px;
     padding-top: 0;
   }
 }
 #gotop a span {
   margin: auto;
+  font-weight: bold;
 }
 #gotop a i {
   color: #004275;
