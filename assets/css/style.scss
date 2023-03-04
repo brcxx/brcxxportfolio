@@ -474,6 +474,11 @@
         max-width: 40px;
         margin: auto;
       }
+
+      .webpack {
+        max-width: 40px;
+        margin: auto;
+      }
     }
   }
 }
@@ -885,7 +890,7 @@
     &:hover>i,
     &:hover {
       color: base.$white-color;
-      transform: translateY(-10px);
+      transform: translateY(-5px);
     }
   }
 }
@@ -906,21 +911,43 @@
   position: fixed;
   bottom: 30px;
   right: 15px;
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
   background: base.$white-color;
   z-index: 9999;
   border-radius: 100%;
   text-align: center;
-
+  border: 1px solid base.$primary-color900;
+  overflow: hidden;
 
   a {
-    display: inline-block;
-    line-height: 1.5;
+    display: block;
+    font-size: 0;
+    letter-spacing: .1em;
+    color: base.$primary-color900;
+    padding-top: 5px;
+    line-height: 1;
+
+
+    @media screen and (max-width:768px) {
+      font-size: 14px;
+      padding-top: 0;
+    }
+
+    span {
+      margin: auto;
+    }
+
 
     i {
       color: base.$primary-color900;
-      font-size: 30px;
+      display: block;
+      margin: 0 auto;
+      font-size: 34px;
+
+      @media screen and (max-width:768px) {
+        font-size: 22px;
+      }
     }
   }
 }

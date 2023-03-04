@@ -61,6 +61,7 @@ body {
   background: #0269b8;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  letter-spacing: 0.1em;
 }
 
 /* A elements that don't have a class get default styles */
@@ -126,6 +127,15 @@ select {
     background-color: #d5d5d5;
   }
 }
+::-moz-selection {
+  background: #47b5ff;
+  color: #004275;
+}
+::selection {
+  background: #47b5ff;
+  color: #004275;
+}
+
 .visual {
   min-height: 100vh;
   overflow: hidden;
@@ -688,6 +698,10 @@ select {
   max-width: 40px;
   margin: auto;
 }
+.about-learn .container .learn-item .webpack {
+  max-width: 40px;
+  margin: auto;
+}
 
 .portfolio-visual .portfolio-tab-block .portfolio-tag-content {
   display: -webkit-box;
@@ -1090,8 +1104,8 @@ select {
 }
 .contact-link a:hover > i, .contact-link a:hover {
   color: #fff;
-  -webkit-transform: translateY(-10px);
-          transform: translateY(-10px);
+  -webkit-transform: translateY(-5px);
+          transform: translateY(-5px);
 }
 
 .copyright {
@@ -1111,18 +1125,40 @@ select {
   position: fixed;
   bottom: 30px;
   right: 15px;
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
   background: #fff;
   z-index: 9999;
   border-radius: 100%;
   text-align: center;
+  border: 1px solid #004275;
+  overflow: hidden;
 }
 #gotop a {
-  display: inline-block;
-  line-height: 1.5;
+  display: block;
+  font-size: 0;
+  letter-spacing: 0.1em;
+  color: #004275;
+  padding-top: 5px;
+  line-height: 1;
+}
+@media screen and (max-width: 768px) {
+  #gotop a {
+    font-size: 14px;
+    padding-top: 0;
+  }
+}
+#gotop a span {
+  margin: auto;
 }
 #gotop a i {
   color: #004275;
-  font-size: 30px;
+  display: block;
+  margin: 0 auto;
+  font-size: 34px;
+}
+@media screen and (max-width: 768px) {
+  #gotop a i {
+    font-size: 22px;
+  }
 }

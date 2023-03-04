@@ -148,7 +148,7 @@ Vue.createApp({
           company: "三立新聞網股份有限公司",
           companyLink: 'https://www.setn.com/',
           date: '2020/11 - 至今',
-          newsImg: "img-cover01.webp",
+          img: "img-cover01.webp",
           workList: '<ul>\
           <li class="work-content-title">工作內容：</li>\
           <li class="work-list-content">\
@@ -211,7 +211,7 @@ Vue.createApp({
           company: "利百加旅行社股份有限公司",
           companyLink: 'https://www.gabriel.com.tw/',
           date: '2020/03 - 2020/09 (6個月)',
-          newsImg: "img-cover02.webp",
+          img: "img-cover02.webp",
           workList: '<ul>\
           <li class="work-content-title">工作內容：</li>\
           <li class="work-list-content">\
@@ -247,7 +247,7 @@ Vue.createApp({
           tit: '平面設計與企劃',
           company: "協益旅行社股份有限公司",
           date: '2018/05 - 2019/11 (1年6個月)',
-          newsImg: "img-cover03.webp",
+          img: "img-cover03.webp",
           workList: '<ul>\
           <li class="work-content-title">工作內容：</li>\
           <li class="work-list-content">\

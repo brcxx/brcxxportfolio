@@ -60,6 +60,7 @@ body {
   background: base.$primary-color700;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  letter-spacing: .1em;
 }
 
 /* A elements that don't have a class get default styles */
@@ -127,4 +128,9 @@ select {
   ::-webkit-scrollbar-corner {
     background-color: #d5d5d5;
   }
+}
+
+::selection {
+  background: base.$primary-color300;
+  color: base.$primary-color900;
 }
