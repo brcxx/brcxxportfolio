@@ -54,7 +54,6 @@
 
 .header {
   background: base.$primary-color900;
-  padding: 10px 0;
 
   .container {
     display: flex;
@@ -64,6 +63,10 @@
       display: block;
       text-align: center;
     }
+  }
+
+  .logo {
+    padding-top: 10px;
   }
 
   .logo a {
@@ -100,21 +103,25 @@
     justify-content: flex-end;
 
     @media screen and (max-width:768px) {
-      justify-content: space-between;
+      justify-content: center;
     }
 
     li {
-      padding: 0 15px;
-
       @media screen and (max-width:600px) {
         flex: 1;
         padding: 0;
-        text-align: center;
         white-space: nowrap;
       }
 
       a {
+        display: block;
         transition: all ease .3s;
+        padding: 20px 1rem;
+        font-size: 18px;
+
+        @media screen and (max-width:480px) {
+          padding: 10px 1rem;
+        }
 
         &:hover {
           color: base.$primary-color300;
@@ -274,6 +281,7 @@
       font-size: 3rem;
       color: base.$primary-color500;
       padding: 5px;
+      transition: all ease .3s;
 
       &:hover {
         transform: translate(3px, -5px);
@@ -885,7 +893,7 @@
     display: inline-block;
     padding: 8px;
     color: base.$primary-color900;
-    transition: all ease-in-out .3s;
+    transition: all ease .3s;
 
     &:hover>i,
     &:hover {
