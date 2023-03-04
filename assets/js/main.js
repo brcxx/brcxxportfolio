@@ -153,9 +153,9 @@ Vue.createApp({
           <li class="work-content-title">工作內容：</li>\
           <li class="work-list-content">\
             <ol>\
-              <li class="work-list-item number-order">新聞網改版／子網站維運及更新／大型選舉開票網站\
+              <li class="work-list-item number-order">新聞網改版/子網站維運及更新/大型選舉開票網站\
                 <ul class="work-tags">\
-                  <li>網頁設計／HTML、Scss切版</li>\
+                  <li>網頁設計/HTML、Scss切版</li>\
                   <li>互動效果設計</li>\
                   <li>各裝置瀏覽器平台開發</li>\
                   <li>跨部門開發協作及溝通</li>\
@@ -165,9 +165,9 @@ Vue.createApp({
           </li>\
           <li class="work-list-content">\
             <ol>\
-            <li class="work-list-item number-order">活動網頁／大事紀新聞專題頁\
+            <li class="work-list-item number-order">活動網頁/大事紀新聞專題頁\
                 <ul class="work-tags">\
-                  <li>網頁設計+切版／jQuery／Vue</li>\
+                  <li>網頁設計+切版/jQuery/Vue</li>\
                 </ul>\
               </li>\
             </ol>\
@@ -176,7 +176,7 @@ Vue.createApp({
             <ol>\
             <li class="work-list-item number-order">配合組內設計師網頁切版\
                 <ul class="work-tags">\
-                  <li>切版／jQuery／Vue</li>\
+                  <li>HTML/CSS/jQuery/Vue</li>\
                 </ul>\
               </li>\
             </ol>\
@@ -194,7 +194,7 @@ Vue.createApp({
           </li>\
           <li class="work-list-content">\
             <ol>\
-              <li class="work-list-item number-order">廣宣製作物／重大新聞專題頁／節慶電子賀卡／直播影音素材\
+              <li class="work-list-item number-order">廣宣製作物/重大新聞專題頁/節慶電子賀卡/直播影音素材\
               </li>\
             </ol>\
           </li>\
@@ -218,7 +218,7 @@ Vue.createApp({
             <ol>\
               <li class="work-list-item number-order">日本旅遊各線網站改版\
                 <ul class="work-tags">\
-                  <li>Photoshop／illustrator網頁設計</li>\
+                  <li>Photoshop/illustrator網頁設計</li>\
                   <li>Boostrap 5切版</li>\
                   <li>旅遊商品行程上架</li>\
                 </ul>\
@@ -266,7 +266,7 @@ Vue.createApp({
             <ol>\
               <li class="work-list-item number-order">平面宣傳製作物\
                 <ul class="work-tags">\
-                  <li>DM／EDM</li>\
+                  <li>DM/EDM</li>\
                   <li>旅遊手冊製作</li>\
                 </ul>\
               </li>\
