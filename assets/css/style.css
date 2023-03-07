@@ -950,6 +950,11 @@ select {
   padding-left: 30px;
   padding-bottom: 20px;
 }
+@media screen and (max-width: 768px) {
+  .experience-info-content .experience-info-item {
+    padding-left: 20px;
+  }
+}
 .experience-info-content .experience-info-item a {
   display: inline-block;
 }

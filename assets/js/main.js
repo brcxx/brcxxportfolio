@@ -6,7 +6,7 @@ Vue.createApp({
       activetab: "websiteDesign",
       portfolioWebs: [
         {
-          link: 'hhttp://webtest3.sanlih.com.tw/',
+          link: 'http://webtest3.sanlih.com.tw/',
           tit: '三立新聞網RWD改版(測試階段)',
           date: '2022/12',
           portfolioImg: 'img-webcover01.webp'
@@ -167,7 +167,7 @@ Vue.createApp({
             <ol>\
             <li class="work-list-item number-order">活動網頁/大事紀新聞專題頁\
                 <ul class="work-tags">\
-                  <li>網頁設計/HTML/SCSS/jQuery/Vue</li>\
+                  <li>HTML/SCSS/jQuery/Vue</li>\
                 </ul>\
               </li>\
             </ol>\
@@ -215,7 +215,7 @@ Vue.createApp({
             <ol>\
               <li class="work-list-item number-order">日本旅遊各線網站改版\
                 <ul class="work-tags">\
-                  <li>Photoshop/illustrator網頁設計</li>\
+                  <li>網頁視覺設計</li>\
                   <li>Boostrap切版</li>\
                   <li>旅遊商品行程上架</li>\
                 </ul>\
@@ -275,7 +275,7 @@ Vue.createApp({
                 <ul class="work-tags">\
                   <li>facebook廣告投放</li>\
                   <li>Google關鍵字廣告投放</li>\
-                  <li>社群貼文文案發想</li>\
+                  <li>社群貼文撰寫</li>\
                 </ul>\
               </li>\
             </ol>\
