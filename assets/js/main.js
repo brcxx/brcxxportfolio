@@ -7,7 +7,7 @@ Vue.createApp({
       portfolioWebs: [
         {
           link: 'http://webtest3.sanlih.com.tw/',
-          tit: '三立新聞網RWD改版(測試階段)',
+          tit: '三立新聞網改版(Demo非正式)',
           date: '2022/12',
           portfolioImg: 'img-webcover01.webp'
         },
@@ -25,55 +25,55 @@ Vue.createApp({
         },
         {
           link: 'https://acts.setn.com/event/2022hotpot/index.html',
-          tit: '今晚這鍋好',
+          tit: '今晚這鍋好活動頁',
           date: '2022/10',
           portfolioImg: 'img-webcover04.webp'
         },
         {
           link: 'https://event-dev.vidol.tv/Vidolghost/index.html',
-          tit: '鬼滅之認台劇版',
+          tit: '鬼滅之認台劇版活動頁',
           date: '2022/08',
           portfolioImg: 'img-webcover06.webp'
         },
         {
           link: 'https://acts.setn.com/event/2022summerdrinkparty/',
-          tit: '這夏冷涼卡好',
+          tit: '這夏冷涼卡好活動頁',
           date: '2022/07',
           portfolioImg: 'img-webcover07.webp'
         },
         {
           link: 'https://acts.setn.com/event/2022classtest/index.html',
-          tit: '看新聞聰明點',
+          tit: '看新聞聰明點活動頁',
           date: '2022/03',
           portfolioImg: 'img-webcover08.webp'
         },
         {
           link: 'https://acts.setn.com/event/2022hodala/',
-          tit: '年終虎打啦',
+          tit: '年終虎打啦!活動頁',
           date: '2022/01',
           portfolioImg: 'img-webcover09.webp'
         },
         {
           link: 'https://acts.setn.com/event/2021delicious10/',
-          tit: '十全食美點餐機',
+          tit: '十全食美點餐機活動頁',
           date: '2021/10',
           portfolioImg: 'img-webcover11.webp'
         },
         {
           link: 'https://event-dev.vidol.tv/GoldenBell_56/',
-          tit: '誰是金鐘56大贏家？',
+          tit: '誰是金鐘56大贏家活動頁',
           date: '2021/08',
           portfolioImg: 'img-webcover12.webp'
         },
         {
           link: 'https://acts.setn.com/event/2021UFO/',
-          tit: '世界幽浮日',
+          tit: '世界幽浮日活動頁',
           date: '2021/07',
           portfolioImg: 'img-webcover10.webp'
         },
         {
           link: 'https://event.vidol.tv/Vstar/Aaron/?pk_vid=190e86445abbeb80162726426245a318',
-          tit: '本月V劇星賴東賢',
+          tit: '本月V劇星賴東賢活動頁',
           date: '2021/05',
           portfolioImg: 'img-webcover13.webp'
         },
@@ -87,7 +87,7 @@ Vue.createApp({
         },
         {
           link: 'https://www.behance.net/gallery/164773505/2022',
-          tit: '2022九合一大選視覺',
+          tit: '2022九合一大選主視覺',
           date: '2022/11',
           portfolioImg: 'img-visualcover02.webp'
         },
@@ -111,7 +111,7 @@ Vue.createApp({
         },
         {
           link: 'https://www.behance.net/gallery/164763561/_',
-          tit: '祝你健康頻道視標準字',
+          tit: '祝你健康頻道標準字',
           date: '2021/11',
           portfolioImg: 'img-logocover01.webp'
         },
