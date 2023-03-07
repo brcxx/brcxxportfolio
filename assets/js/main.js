@@ -207,7 +207,7 @@ Vue.createApp({
           tit: '網頁設計',
           company: "利百加旅行社股份有限公司",
           companyLink: 'https://www.gabriel.com.tw/',
-          date: '2020/03 - 2020/09 (6個月)',
+          date: '2020/03 - 2020/09 (7個月)',
           img: "img-cover02.webp",
           workList: '<ul>\
           <li class="work-content-title">工作內容：</li>\
