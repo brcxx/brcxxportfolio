@@ -80,43 +80,43 @@ Vue.createApp({
       ],
       portfolioDesigns: [
         {
-          link: 'https://acts.setn.com/event/2022classtest/index.html',
+          link: '',
           tit: '重生福島福到標準字',
           date: '2022/11',
           portfolioImg: 'img-visualcover05.webp'
         },
         {
-          link: 'https://acts.setn.com/event/2022classtest/index.html',
+          link: 'https://www.behance.net/gallery/164773505/2022',
           tit: '2022九合一大選視覺',
           date: '2022/11',
           portfolioImg: 'img-visualcover02.webp'
         },
         {
-          link: 'https://acts.setn.com/event/2022summerdrinkparty/',
+          link: 'https://www.behance.net/gallery/164765521/_',
           tit: '中秋節電子賀卡',
           date: '2022/09',
           portfolioImg: 'img-visualcover01.webp'
         },
         {
-          link: 'https://acts.setn.com/event/2022hotpot/index.html',
+          link: 'https://www.behance.net/gallery/164772785/SETN',
           tit: 'SETN大政治標準字',
           date: '2022/11',
           portfolioImg: 'img-logocover04.webp'
         },
         {
-          link: 'https://www.setn.com/elect/2022vote/index.aspx',
+          link: 'https://www.behance.net/gallery/164765033/_',
           tit: '樂齡高手標準字',
           date: '2022/08',
           portfolioImg: 'img-logocover02.webp'
         },
         {
-          link: 'https://amedia.sanlih.com.tw/henry/setn/index.html',
+          link: 'https://www.behance.net/gallery/164763561/_',
           tit: '祝你健康頻道視標準字',
           date: '2021/11',
           portfolioImg: 'img-logocover01.webp'
         },
         {
-          link: 'https://acts.setn.com/event/newyear2023/',
+          link: 'https://www.behance.net/gallery/164763741/Podcast',
           tit: '聽新聞Podcast標準字',
           date: '2021/00',
           portfolioImg: 'img-logocover03.webp'
