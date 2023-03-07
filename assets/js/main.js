@@ -80,7 +80,7 @@ Vue.createApp({
       ],
       portfolioDesigns: [
         {
-          link: '',
+          link: 'https://www.behance.net/gallery/165412413/LOGO?share=1',
           tit: '重生福島福到標準字',
           date: '2022/11',
           portfolioImg: 'img-visualcover05.webp'
@@ -118,7 +118,7 @@ Vue.createApp({
         {
           link: 'https://www.behance.net/gallery/164763741/Podcast',
           tit: '聽新聞Podcast標準字',
-          date: '2021/00',
+          date: '2021/11',
           portfolioImg: 'img-logocover03.webp'
         },
       ],
