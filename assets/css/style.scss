@@ -48,7 +48,7 @@
   font-weight: bold;
 
   @media screen and (max-width:768px) {
-    font-size: 14vw;
+    font-size: 13.5vw;
   }
 }
 
@@ -377,7 +377,6 @@
 
     .about-tag-content {
       display: flex;
-      margin-inline: 10px;
 
       li {
         background: base.$primary-color900;
@@ -386,8 +385,8 @@
         border-radius: 25px;
         margin: 0 5px;
 
-        @media screen and (max-width:425px) {
-          padding: 5px 15px;
+        @media screen and (max-width:480px) {
+          padding: 5px 12px;
         }
       }
     }
@@ -832,6 +831,7 @@
     .contact-content {
       display: flex;
       align-items: center;
+      justify-content: center;
 
       @media screen and (max-width:600px) {
         display: block;

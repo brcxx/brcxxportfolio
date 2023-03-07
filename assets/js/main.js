@@ -7,7 +7,7 @@ Vue.createApp({
       portfolioWebs: [
         {
           link: 'hhttp://webtest3.sanlih.com.tw/',
-          tit: '三立新聞網RWD改版',
+          tit: '三立新聞網RWD改版(測試階段)',
           date: '2022/12',
           portfolioImg: 'img-webcover01.webp'
         },
